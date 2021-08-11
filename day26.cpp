@@ -31,7 +31,7 @@ int main()
     }
     else
     {
-        cout << 10000 * (y1 - y2) << endl;
+        cout << 10000 << endl;
     }
 
     return 0;
